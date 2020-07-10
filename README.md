@@ -65,3 +65,10 @@ Make sure, the entries you want to change, really exist in your .env.
     }
 
 For more exmaples visit the Wiki.
+
+# Alternatives
+
+There are some other packages out there that do the same thing, but with different approaches.
+
+Here are some alternatives:
+ - [Laravel-EnvEditor](https://github.com/GeoSot/Laravel-EnvEditor)
